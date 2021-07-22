@@ -1,0 +1,6 @@
+yfinance
+numpy
+pandas
+pandas_market_calendars
+pyalgotrade
+
